@@ -10,7 +10,7 @@
 > **Reduce job application time by 90%** - From 20 minutes to 2 minutes per application using AI automation!
 
 ---
-
+<!--
 ## 🎯 Quick Links
 
 - 📊 [**VIEW PITCH DECK**](PITCH.md) - Professional presentation materials
@@ -19,7 +19,7 @@
 - 📋 [**PROJECT SUMMARY**](PROJECT_SUMMARY.md) - Technical documentation
 
 ---
-
+-->
 ## 📖 Project Overview
 
 ApplyBotX is an intelligent job application automation system that:
