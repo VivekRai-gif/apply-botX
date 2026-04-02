@@ -264,9 +264,6 @@ Handles both resume update and email automation
 - Internship Project
 - Portfolio Project
 
-## 📝 License
-
-MIT License - Free to use for educational purposes
 
 ## 👨‍💻 Author
 
